@@ -31,6 +31,7 @@ bdp -u https://pan.baidu.com/s/xxxxx
 ---
 
 -  `-u`, `--url`      **要查询的百度网盘链接**
+-  `-o`, `--open`      **查询完直接打开网盘链接**
 -  `-h`, `--help`     **显示帮助信息**
 -  `-v`, -`-version`  **显示版本号**
 
