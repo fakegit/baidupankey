@@ -1,9 +1,7 @@
-# 查询百度网盘提取密码
+# 查询百度网盘&蓝云盘提取密码
 
 # [Web版](https://pnote.net/pan/)
 
-
-> 基于云盘万能钥匙API，查询百度网盘分享链接密码。大牛轻喷～
 
 ![baidupankey示例截图](https://raw.githubusercontent.com/wu-dada/baidupankey/master/example.png)
 
